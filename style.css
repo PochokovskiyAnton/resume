@@ -1,0 +1,668 @@
+.ramka {
+    position: absolute;
+    width: 595px;
+    height: 842px;
+    margin-left: 50px;
+    margin-top: 50px;
+    /* background: rgb(197, 197, 223); */
+    background-color: white;
+}
+
+.intro {
+    position: absolute;
+    width: 203px;
+    height: 309px;
+    margin-top: 0px;
+}
+
+.zagolovok {
+    position: absolute;
+    width: 164px;
+    height: 88px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.polosa {
+    position: absolute;
+    width: 51px;
+    height: 9px;
+    left: 52px;
+    top: 163px;
+    /* default/blue/300 */
+    background: #90CDF4;
+    border-radius: 64px;
+}
+
+.hello {
+    position: absolute;
+    width: 210px;
+    height: 174px;
+    left: 52px;
+    top: 193px;
+    font-family: Montserrat;
+    font-size: 30px;
+    color: #4299E1;
+}
+
+.workExp {
+    position: absolute;
+    width: 191px;
+    height: 24px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.work {
+    position: absolute;
+    width: 191px;
+    height: 24px;
+    margin-top: 320px;
+    margin-left: 50px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.date1 {
+    position: absolute;
+    width: 125px;
+    height: 15px;
+    font-family: Montserrat;
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+    /* identical to box height */
+    /* default/blue/400 */
+    color: #63B3ED;
+}
+
+.iliad {
+    position: absolute;
+    width: 212px;
+    height: 34px;
+    margin-top: 30px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.date2 {
+    position: absolute;
+    width: 125px;
+    height: 15px;
+    margin-top: 60px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+    /* identical to box height */
+    /* default/blue/400 */
+    color: #63B3ED;
+}
+
+.rexel {
+    position: absolute;
+    width: 125px;
+    height: 34px;
+    margin-top: 80px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.language {
+    position: absolute;
+    width: 116px;
+    height: 24px;
+    margin-top: 490px;
+    margin-left: 50px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.oneLang {
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    margin-top: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.twoLang {
+    position: absolute;
+    width: 157px;
+    height: 15px;
+    margin-top: 60px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.hobby {
+    position: absolute;
+    width: 217px;
+    height: 165px;
+    margin-top: 310px;
+    margin-left: 25px;
+    font-size: 30px;
+}
+
+.reading {
+    position: absolute;
+    width: 66px;
+    height: 15px;
+    margin-top: 350px;
+    margin-left: 25px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.writing {
+    position: absolute;
+    width: 120px;
+    height: 15px;
+    margin-top: 354px;
+    margin-left: 90px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.climbing {
+    position: absolute;
+    width: 100px;
+    height: 15px;
+    margin-top: 395px;
+    margin-left: 25px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.source {
+    position: absolute;
+    width: 217px;
+    height: 87px;
+    margin-top: 420px;
+    margin-left: 25px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.profilPIC {
+    position: absolute;
+    width: 375px;
+    height: 375px;
+    left: 407px;
+    top: 46px;
+}
+
+.kartinka img {
+    position: relative;
+    width: 200px;
+    height: 200.33px;
+    /* shadow-xl */
+    border-radius: 50%;
+    z-index: 9999;
+    margin-left: -40px;
+}
+
+.rictangle1 {
+    position: absolute;
+    width: 15px;
+height: 15px;
+margin-left: -50px;
+background: #ee3d07;
+}
+
+.rictangle2 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    margin-top: 150px;
+    margin-left: -90px;
+    background: #69e66f;
+}
+
+.rictangle3 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    margin-top: 200px;
+    margin-left: -70px;
+    background: #696be6;
+}
+
+.elips {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    /* default/blue/200 */
+    background: #BEE3F8;
+    border-radius: 50%;
+    margin-top: -90px;
+}
+
+.okno {
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-top: -90px;
+    /* default/blue/200 */
+    background-color: white;
+    margin-left: 188px;
+}
+
+.email {
+    position: absolute;
+    width: 220px;
+    height: 30px;
+    margin-top: 300px;
+    margin-left: 320px;
+    background-color: rgb(154, 154, 219);
+    border-radius: 15%;
+}
+
+.text1 {
+    position: absolute;
+    width: 165px;
+    height: 15px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 15px;
+    margin-left: 12px;
+    margin-top: 8px;
+    /* identical to box height */
+    /* default/shade/white */
+    color: #FFFFFF;
+}
+
+.telephone {
+    position: absolute;
+    width: 220px;
+    height: 30px;
+    margin-top: 340px;
+    margin-left: 340px;
+    background-color: rgb(209, 174, 100);
+    border-radius: 15%;
+}
+
+.text2 {
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    margin-top: 8px;
+    margin-left: 30px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 15px;
+    /* identical to box height */
+    /* default/shade/white */
+    color: #FFFFFF;
+}
+
+.site {
+    position: absolute;
+    width: 220px;
+    height: 30px;
+    margin-top: 380px;
+    margin-left: 320px;
+    background-color: rgb(154, 154, 219);
+    border-radius: 15%;
+}
+
+.text3 {
+    position: absolute;
+    width: 163px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 15px;
+    /* identical to box height */
+    /* default/shade/white */
+    color: #FFFFFF;
+}
+
+.education {
+    position: absolute;
+    width: 205px;
+    height: 155px;
+    left: 353px;
+    top: 421px;
+}
+
+.edu {
+    position: absolute;
+    width: 107px;
+    height: 24px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.date3 {
+    position: absolute;
+    width: 100px;
+    height: 15px;
+    margin-top: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+    /* identical to box height */
+    /* default/blue/400 */
+    color: #63B3ED;
+}
+
+.oclock {
+    position: absolute;
+    width: 230px;
+    height: 51px;
+    margin-top: 60px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.date4 {
+    position: absolute;
+    width: 100px;
+    height: 15px;
+    margin-top: 130px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 15px;
+    /* identical to box height */
+    /* default/blue/400 */
+    color: #63B3ED;
+}
+
+.esg {
+    position: absolute;
+    width: 250px;
+    height: 34px;
+    margin-top: 150px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.skills {
+    position: absolute;
+    width: 203px;
+    height: 185px;
+    margin-top: 620px;
+    margin-left: 350px;
+    font-size: 30px;
+}
+
+.front {
+    position: absolute;
+    width: 30px;
+    height: 10px;
+    margin-top: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 10px;
+    color: #6ee5ee;
+    z-index: 9999;
+}
+
+/* .kryg1 {
+    position: absolute;
+    width: 220px;
+    height: 30px;
+    margin-top: -10px;
+    
+    background-color: rgb(209, 174, 100);
+    border-radius: 15%;
+} */
+
+.react {
+    position: absolute;
+    width: 64px;
+    height: 20px;
+    margin-top: 25px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.vue {
+    position: absolute;
+    width: 49px;
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 70px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.ejs {
+    position: absolute;
+    width: 29px;
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 130px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.js {
+    position: absolute;
+    width: 18px;
+    height: 20px;
+    margin-top: 25px;
+    margin-left: 170px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.back {
+    position: absolute;
+    width: 24px;
+    height: 10px;
+    margin-top: 55px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 10px;
+    /* identical to box height */
+    /* default/shade/white */
+    color: #6ee5ee;
+}
+
+.node {
+    position: absolute;
+    width: 62px;
+    height: 20px;
+    margin-top: 70px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.express {
+    position: absolute;
+    width: 62px;
+    height: 20px;
+    margin-top: 70px;
+    margin-left: 70px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.go {
+    position: absolute;
+    width: 23px;
+    height: 20px;
+    margin-top: 70px;
+    margin-left: 140px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.database {
+    position: absolute;
+    width: 46px;
+    height: 10px;
+    margin-top: 100px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 10px;
+    color: #6ee5ee;
+}
+
+.mongo {
+    position: absolute;
+    width: 83px;
+    height: 20px;
+    margin-top: 120px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.sql {
+    position: absolute;
+    width: 33px;
+    height: 20px;
+    margin-top: 120px;
+    margin-left: 100px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.fire {
+    position: absolute;
+    width: 68px;
+    height: 20px;
+    margin-top: 120px;
+    margin-left: 150px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+}
+
+
+
+
